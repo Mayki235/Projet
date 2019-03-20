@@ -46,7 +46,7 @@
         <div class="container-fluid">
           <div class="row">
             <div class="col">
-               <a class="navbar-brand" href="Page1.html">
+               <a class="navbar-brand" href="index.php">
               <img  src="logo.jpg" width="100" height="100" alt="">
              </a>
             </div>

@@ -14,7 +14,7 @@
   <div class="couleure">
      <header class ="entete" >
      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-       <a class="navbar-brand" href="Page1.php">ACCUEIL</a>
+       <a class="navbar-brand" href="index.php">ACCUEIL</a>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
        </button>
@@ -44,7 +44,7 @@
          <div class="container-fluid">
            <div class="row">
              <div class="col">
-                <a class="navbar-brand" href="Page1.php">
+                <a class="navbar-brand" href="index.php">
                <img  src="logo.jpg" width="100" height="100" alt="">
               </a>
              </div>
