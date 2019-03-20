@@ -1,0 +1,57 @@
+.cadre    {
+    color: #fff;
+}
+.bb{
+    width: 100%;
+    height: 100%;
+}
+
+.une{
+    color: #fff;
+    text-align: center;
+    font-family: cursive;
+}
+.ligne1{
+    color: #fff;
+    text-align: center;
+    font-family: cursive;
+}
+.plan{
+    color: #fff;
+    text-align: center;
+    font-family: cursive;
+}
+.actualite{
+     font-family: Arial;
+     color: #C0C0C0;
+}
+.petitepolice{
+    font-size: small;
+}
+.carousel-inner
+{
+    width: 1000px;
+    height:  450px;
+
+}
+.foo{
+	background-color: #222;
+    color: #fff;
+    margin-top: 45px;
+    padding-top: 5px;
+}
+.carousel slide{
+    margin-top: 45px;
+    padding-top: 5px;
+}
+body{
+    font-family: ;
+    background: ThreeDDarkShadow;
+    color: ;
+}
+.cadr{
+  background:  ThreeDDarkShadow;
+  border: solid;
+  border-radius: 5px;
+  color-text: white;
+}
